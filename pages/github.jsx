@@ -54,7 +54,7 @@ export async function getStaticProps() {
     `https://api.github.com/users/Seto0125`,
     {
       headers: {
-        Authorization: `token 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`,
+        Authorization: `token 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`,
       },
     }
   );
@@ -64,7 +64,7 @@ export async function getStaticProps() {
     `https://api.github.com/users/seto0125/repos?per_page=100`,
     {
       headers: {
-        Authorization: `token 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`,
+        Authorization: `token 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`,
       },
     }
   );
