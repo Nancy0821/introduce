@@ -15,10 +15,8 @@ const CustomHead = ({ title }) => {
       <meta property="og:title" content="Seto Korekiyo's Portfolio" />
       <meta
         property="og:description"
-        content="A full-stack developer building websites that you'd like to use."
+        content="Full Stack Developer, Seto Korekiyo's prortfolio"
       />
-      <meta property="og:image" content="https://imgur.com/4zi5KkQ.png" />
-      <meta property="og:url" content="https://vscode-portfolio.vercel.app" />
       <meta name="twitter:card" content="summary_large_image" />
     </Head>
   );
